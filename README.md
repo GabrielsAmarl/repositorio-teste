@@ -6,3 +6,5 @@ Repositorio para teste
 ## testando
 
 git pull teste
+
+comando git fat
