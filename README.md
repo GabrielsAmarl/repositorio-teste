@@ -5,4 +5,4 @@ Repositorio para teste
 
 ## testando
 
-git pull
+git pull teste
